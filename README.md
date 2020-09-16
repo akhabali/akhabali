@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anas Khabali's github stats](https://github-readme-stats.vercel.app/api?username=akhabali&count_private=true&show_icons=true)](https://www.linkedin.com/in/anaskhabali/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhabali&layout=compact)](https://www.linkedin.com/in/anaskhabali/)
+Anas KHABALI
+---
+[![Github stats](https://github-readme-stats.vercel.app/api?username=akhabali&count_private=true&show_icons=true)](#)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhabali&layout=compact)](#)
 
-These cards are powered by https://github.com/anuraghazra/github-readme-stats
-
-
+_These cards are powered by https://github.com/anuraghazra/github-readme-stats_
