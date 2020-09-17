@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 Anas KHABALI
 ---
-[![Github stats](https://github-readme-stats.vercel.app/api?username=akhabali&count_private=true&show_icons=true)](#)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhabali&layout=compact)](#)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=akhabali&count_private=true&show_icons=true&hide=stars)](#)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhabali&layout=compact&langs_count=10)](#)
 
 _These cards are powered by https://github.com/anuraghazra/github-readme-stats_
